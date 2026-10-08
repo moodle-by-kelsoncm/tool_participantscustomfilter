@@ -1,4 +1,8 @@
-# Guia de Uso — moodle-tool_participantscustomfilter
+Guia de Uso
+===========
+
+Filtrando Participantes
+-----------------------
 
 1. Acesse qualquer curso do Moodle no qual você possua permissão de gerenciamento de participantes.
 2. Acesse a lista de participantes (`/enrol/index.php?id=COURSE_ID`).
